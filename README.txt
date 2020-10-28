@@ -1,5 +1,3 @@
-# decentralized_functions
-Decentralized computation of functions
 
 
 The first time you want to run a simulation after downloading the
