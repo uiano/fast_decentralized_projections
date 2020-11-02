@@ -18,3 +18,6 @@ type
 >>  gsim(0,3001)
 
 You will see Fig.1 of the paper that has been displayed on the screen.
+
+If you have any question or experience any issue, please contact 
+siavash.mollaebrahim@uia.no
