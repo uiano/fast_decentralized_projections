@@ -1,4 +1,11 @@
-# fast_decentralized_projections
-Code for paper "Fast Graph Filters for Decentralized Subspace Projection"
+# decentralized_functions
+Decentralized computation of functions
 
-It will be posted in the upcoming days.
+
+The first time you want to run a simulation after downloading the
+code, execute
+
+>>  gsimStartup
+
+After that, you will be able to execute any simulation by invoking the
+function in gsim.m that will have been created in the folder gsim/
